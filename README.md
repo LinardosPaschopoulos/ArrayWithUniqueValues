@@ -12,4 +12,4 @@ Description:
 
 
 
-This program creates a three dimentional array with a unique value in each cell.
+This program creates a three dimensional array with a unique value in each cell.
