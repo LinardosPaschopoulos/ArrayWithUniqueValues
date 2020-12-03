@@ -27,8 +27,7 @@ int main(void)
 								k_check = 0;
 							}
 						}
-					}
-				
+					}	
 				}	
 			printf("%8.1d   " ,MyArray[i][j][k]);
 			}
