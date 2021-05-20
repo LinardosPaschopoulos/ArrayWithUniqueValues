@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define x 50 //must be greater than 0
-#define y 50 //must be greater than 0
-#define z 50 //must be greater than 0
+#define x 5 //must be greater than 0
+#define y 5 //must be greater than 0
+#define z 5 //must be greater than 0
 
 int main(void)
 {
